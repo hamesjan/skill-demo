@@ -4,7 +4,7 @@ import org.junit.*;
 public class PracticeTest {
     @Test
     public void testAdd() {
-        assertEquals(2, Practice.add(1, 2));
+        assertEquals(3, Practice.add(1, 2));
     }
 
 }
